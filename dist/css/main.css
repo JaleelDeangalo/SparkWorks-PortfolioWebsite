@@ -304,6 +304,9 @@ img {
   grid-template-areas: 'bioimage bio bio' 'aw1 aw2 aw3';
   grid-gap: 1.2rem; }
 
+#about-a p.about-context {
+  margin-top: 50px; }
+
 #about-a .bio-image {
   grid-area: bioimage; }
 
