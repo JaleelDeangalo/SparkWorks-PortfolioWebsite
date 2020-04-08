@@ -6,7 +6,7 @@
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive"
   },
-  "author": "",
+  "author": "Jaleel D Gilbert",
   "license": "ISC",
   "devDependencies": {
     "node-sass": "^4.13.0"
