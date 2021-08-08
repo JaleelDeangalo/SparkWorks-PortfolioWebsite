@@ -413,6 +413,12 @@ img {
     justify-content: space-between;
     height: 5rem;
     align-items: center; }
+
+
+    #main-footer i.fab {
+      color: #fff;
+    }
+
     #main-footer .footer-content .social .fab {
       margin-right: 1rem;
       border: 2px #fff solid;
