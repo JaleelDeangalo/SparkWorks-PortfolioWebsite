@@ -9,7 +9,8 @@
   padding: 0.8rem 2rem;
   transition: all 0.5s;
   border: none;
-  cursor: pointer; }
+  cursor: pointer; 
+}
 
 .btn-main {
   color: #333;
@@ -241,7 +242,7 @@ img {
   grid-gap: 1rem;
   grid-template-columns: repeat(4, 1fr); }
   #home-a .specials .fas {
-    color: #de2b2b;
+    /*color: #de2b2b; */
     padding-bottom: 0.4rem; }
 
 #home-b .stats {
